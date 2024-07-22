@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Shinde</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavshindecodes&label=Profile%20views&color=0e75b6&style=flat" alt="pranavshindecodes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavshindecodes" alt="pranavshindecodes" /></a> </p>
+ 
 
 - 🔭 I’m currently Working In Web Development **E-Commerce Web Development**
 
