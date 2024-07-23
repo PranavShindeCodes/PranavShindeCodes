@@ -1,3 +1,5 @@
+![Banner]([https://github.com/username/repository/raw/main/assets/banner.png](https://github.com/PranavShindeCodes/PranavShindeCodes/blob/main/banner.png))
+
 <h1 align="center">Hi 👋, I'm Pranav Shinde</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
